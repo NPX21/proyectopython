@@ -2,7 +2,7 @@ agenda_telefonica = dict()
 print()
 print("Bienvenido a su agenda telefónica personalizada ")
 print()
-def agregar_contacto():
+def añadir_contacto():
     print()
     nombre = input("Nombre del contacto que quieres añadir: ")
     numero = input("Numero del contacto que quieres añadir: ")
@@ -12,7 +12,7 @@ def agregar_contacto():
     print(nombre_operacion)
     print()
 
-def remover_contacto():
+def eliminar_contacto():
     print()
     nombre = input("Nombre del contacto que quieres eliminar: ")
     nombre_operacion = None
@@ -70,9 +70,9 @@ while True:
 
     else:
         if operacion == 1:
-            agregar_contacto()
+            añadir_contacto()
         elif operacion == 2:
-            remover_contacto()
+            eliminar_contacto()
         elif operacion == 3:
             actualizar_contacto()
         elif operacion == 4:
@@ -85,3 +85,4 @@ while True:
             print()
 print()
 print("Muchas gracias por utilizarme, vuelve pronto amigo")
+
