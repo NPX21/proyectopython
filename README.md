@@ -2,7 +2,7 @@
 Instrucciones para el correcto funcionamiento de la agenda telefónica (creada por Diego Núñez):
 Al ejecutar el programa, la agenda nos dará la bienvenida y nos ofrecerá diferentes opciones con las que operar:
 
-1 - Añadir Contacto
+1 - Añadir Contacto<br>
 2 - Eliminar Contacto
 3 - Actualizar Contacto
 4 - Ver todos mis contactos
