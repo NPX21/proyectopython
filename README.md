@@ -22,13 +22,13 @@ Al ejecutar el programa, la agenda nos dará la bienvenida y nos ofrecerá difer
 1º Tendremos que introducir el nombre del contacto que queremos actualizar.<br>
 2º Introduciremos el nuevo número para el contacto.<br>
 3º La agenda nos notificará que el contacto ha sido actualizado con éxito.<br>
-<br>
+
 - En caso de elegir la cuarta opción: (Ver todos mis contactos)<br>
 La agenda nos mostrará todos los contactos que tiene guardados.<br>
 En caso de no haber contactos, la agenda también nos lo notificará.<br>
-<br>
+
 - En caso de elegir la quinta opción: (Salir)<br>
 La agenda se despedirá de nosotros y el programa dejará de ejecutarse.<br>
-<br>
+
 - En caso de no elegir ninguna de las opciones que se ofrecen:<br>
 La agenda nos notificará que esa opción no existe.<br>
